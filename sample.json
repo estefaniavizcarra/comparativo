@@ -1,0 +1,253 @@
+{
+    "Aplicaciones": [
+        {
+            "App": "CRM",
+            "Price": 10,
+            "imagen" : "crm.png"
+        },
+        {
+            "App": "Sales",
+            "Price": 5,
+            "imagen" : "sale.png"
+
+        },
+        {
+            "App": "Invoicing",
+            "Price": 5,
+            "imagen": "account_invoicing.png"
+            
+
+
+        },
+        {
+            "App": "Point Of Sale",
+            "Price": 10,
+            "imagen": "point_of_sale.png"
+
+        },
+        {
+            "App": "Inventory",
+            "Price": 15,
+            "imagen": "stock.png"
+
+
+        },
+        {
+            "App": "Purchase",
+            "Price": 5,
+            "imagen": "purchase.png"
+
+        },
+        {
+            "App": "Rental",
+            "Price": 10,
+            "imagen": "rental.png"
+
+        },
+        {
+            "App": "MRP",
+            "Price": 20,
+            "imagen": "mrp.png"
+
+        },
+        {
+            "App": "Quality Control",
+            "Price": 10,
+            "imagen": "quality_control.png"
+
+        },
+        {
+            "App": "PLM",
+            "Price": 10,
+            "imagen": "mrp_plm.png"
+
+        },
+        {
+            "App": "Maintenance",
+            "Price": 10,
+            "imagen": "maintenance.png"
+
+        },
+        {
+            "App": "Documents",
+            "Price": 10,
+            "imagen": "documents.png"
+
+        },
+        {
+            "App": "Accounting",
+            "Price": 10,
+            "imagen": "account_accountant.png"
+
+        },
+        {
+            "App": "Consolidation",
+            "Price": 20,
+            "imagen": "consolidation.png"
+
+        },
+        {
+            "App": "Website",
+            "Price": 10,
+            "imagen": "website.png"
+
+
+        },
+        {
+            "App": "Ecommerce",
+            "Price": 5,
+            "imagen": "website_sale.png"
+
+
+        },
+        {
+            "App": "Email Marketing",
+            "Price": 5,
+            "imagen": "mass_mailing.png"
+
+        },
+        {
+            "App": "Marketing Automation",
+            "Price": 20,
+            "imagen": "mass_automation.png"
+
+        },
+        {
+            "App": "Expenses",
+            "Price": 5,
+            "imagen": "hr_expenses.png"
+
+        },
+        {
+            "App": "Time Off",
+            "Price": 5,
+            "imagen": "hr_holidays.png"
+
+        },
+        {
+            "App": "Appointment",
+            "Price": 5,
+            "imagen": "calendar.png"
+
+        },
+        {
+            "App": "Recruitment",
+            "Price": 5,
+            "imagen": "hr_recruitment.png"
+
+        },
+        {
+            "App": "Appraisal",
+            "Price": 5,
+            "imagen": "hr_appraisal.png"
+
+
+        },
+        {
+            "App": "Subscription",
+            "Price": 10,
+            "imagen": "sale_subscription.png"
+
+        },
+        {
+            "App": "Events",
+            "Price": 5,
+            "imagen": "event.png"
+
+
+        },
+        {
+            "App": "Sign",
+            "Price": 10,
+            "imagen": "website_sign.png"
+
+        },
+        {
+            "App": "Project",
+            "Price": 10,
+            "imagen": "project.png"
+
+        },
+        {
+            "App": "Field Services",
+            "Price": 10,
+            "imagen": "field_services.png"
+
+        },
+        {
+            "App": "Planning",
+            "Price": 5,
+            "imagen": "project_forecast.png"
+
+        },
+        {
+            "App": "Helpdesk",
+            "Price": 10,
+            "imagen": "helpdesk.png"
+
+
+        },
+        {
+            "App": "Timesheets",
+            "Price": 5,
+            "imagen": "helpdesk.png"
+
+        },
+        {
+            "App": "IOT",
+            "Price": 20
+        },
+        {
+            "App": "Approvals",
+            "Price": 5
+        },
+        {
+            "App": "Social Marketing",
+            "Price": 15
+        },
+        {
+            "App": "E-learning",
+            "Price": 10
+        },
+        {
+            "App": "Studio",
+            "Price": 30
+        }
+    ],
+    "implementacion": [
+        {
+            "#hours / pack": "25h",
+            "Price": 1150
+        },
+        {
+            "#hours / pack": "50h",
+            "Price": 2240
+        },
+        {
+            "#hours / pack": "100h",
+            "Price": 4000
+        },
+        {
+            "#hours / pack": "200h",
+            "Price": 8000
+        }
+    ],
+    "SH": [
+        {
+            "Odoo SH": "Workers",
+            "Unit/Price/ Month": 72
+        },
+        {
+            "Odoo SH": "Storage",
+            "Unit/Price/ Month": 0.25
+        },
+        {
+            "Odoo SH": "Dedicated cloud",
+            "Unit/Price/ Month": 600
+        },
+        {
+            "Odoo SH": "Staging",
+            "Unit/Price/ Month": 18
+        }
+    ]
+}
